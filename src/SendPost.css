@@ -1,0 +1,41 @@
+.send_post{
+    display: flex;
+    flex-direction: column;
+    background-color: #242526;
+    justify-content: center;
+    padding: 2em;
+    margin-top: 2em;
+    color: #e3ddd5;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 15px -6px #fff; 
+box-shadow: 0px 0px 10px -6px #000;
+max-width: 800px;
+}
+.send_post_top{
+    display: flex;
+    margin-bottom: .5em;
+}
+.send_post_top h3, .send_post_top p{
+    padding-left: 1em;
+}
+.send_post_top div div{
+    display: flex;}
+
+.send_post_middle{
+    padding: 2em 1em;
+
+}
+.send_post_bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.txta{
+    width: 100%;
+}
+.MuiFormLabel-root{
+    color: #e3ddd59f!important;
+}
+.MuiInputBase-input{
+    color: #e3ddd5!important;
+}
+

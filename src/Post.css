@@ -1,0 +1,13 @@
+.MuiCard-root, .MuiTypography-root{
+background-color: #242526!important;
+color: #e3ddd5!important;
+}
+.deleteIcon{
+    color: #f02849!important;
+}
+.post{
+    margin: 2em 0;
+}
+.ikona{
+    color: #e3ddd5!important;
+}

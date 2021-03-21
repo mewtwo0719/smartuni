@@ -1,0 +1,22 @@
+.sidebarmap{
+    width: 30%;
+    height: 100vh;
+    background-color: white;
+    position: absolute;
+    overflow: scroll;
+}
+.fakultetsidebar {
+    color: black;
+    display: flex;
+}
+.logofakultet {
+    width: 50px;
+    height: 50px;
+}
+.imefakultet{
+    position: relative;
+    top:5px;
+    left: 5px;
+    background-color: transparent;
+    border: none;
+}
